@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.Python
+*.db
+*.sqlite3
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# PyInstaller / Build Artifacts
+*.spec
+build/
+dist/
+*.exe
+*.manifest
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Tests
+tests/
+
+# Logs
+*.log
