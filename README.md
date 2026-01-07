@@ -2,7 +2,7 @@
 
 **ArtEmbedder** is a modern, cross-platform desktop application designed to easily find and embed high-resolution album artwork into your music collection. Built with Python and PyQt5, it supports batch processing, automatic metadata matching, and integration with both **iTunes** and **MusicBrainz** APIs.
 
-![ArtEmbedder Icon](assets/music.png)
+![ArtEmbedder Icon](assets/DashBoard.png)
 
 ## ✨ Features
 
